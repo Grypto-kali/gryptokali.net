@@ -1,0 +1,27 @@
+@font-face {
+    font-family: OCR;
+    src: url(OCR.ttf);
+}
+
+body {
+	background-color: #000000;
+	padding: 1%;
+	color: #ccc;
+	font-family: "OCR", 'Times New Roman', Times, serif;
+	font-size: 1em;
+}
+
+a {
+	color: #00FF00;
+	text-decoration: underline;
+    font-family: "OCR", 'Times New Roman', Times, serif;
+}
+
+.console{
+	font-family: "OCR",'Times New Roman', Times, serif;
+	color: #00FF00;
+}
+
+input[type="button"] {
+	cursor: pointer;
+}
