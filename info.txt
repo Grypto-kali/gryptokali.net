@@ -1,0 +1,67 @@
+grypto@kali:~# cat /db/online/grypto/info.txt
+
+Name: Grypto-kali
+
+Professional Dabkeh's discord kitten
+
+certified silly
+
+Real name: Unknown
+
+Age: 21
+
+Gender: Male
+
+Sexuality: Straight as the Leaning Tower of Pisa
+
+Languages: Finnish/English and a bit of Swedish
+
+Location: Finland
+
+Favorite color: Lime Green and Black (no shit :D)
+
+Favourite food: Sushi/Pizza and website cookies
+
+Interests/hobbies{
+
+Cybersecurity
+
+Hacking
+
+Wardriving
+
+Hardware hacking
+
+3D Modeling
+
+} 
+
+Social medias: {
+
+instagram: @grypto_kali
+
+Discord: gryptokali
+
+Session ID: 05204c238c7e60a41dd53624d0d40854cd1c4fd0aeaa1f9a6b927befdea88c5f67
+
+Email: gryptokaliz@protonmail.com
+
+}
+
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+mDMEZakF0BYJKwYBBAHaRw8BAQdA9PBtvIRBU5GJmeDxLnigrDuHqRzcfdzBqrvV
+NbIiydm0HEdyeXB0byA8Z3J5cHRvQHR1dGFub3RhLmNvbT6IkwQTFgoAOxYhBKf+
+y+QHEnnDPs4Xb3pU6FfrH1OyBQJlqQXQAhsDBQsJCAcCAiICBhUKCQgLAgQWAgMB
+Ah4HAheAAAoJEHpU6FfrH1OyRhIBAOrVfBnBXu57qEoWx/QWxKm3492rhjKhg7f4
+6QP2ZgRVAQD0HVQahgZhk3yDlr63j2I5VMVj99Kc2zun6R9cCndbDrg4BGWpBdAS
+CisGAQQBl1UBBQEBB0BP31hXEF64x58i3ovFHuqJ1ITpZGUfCcq5Ojd0QnEHcwMB
+CAeIeAQYFgoAIBYhBKf+y+QHEnnDPs4Xb3pU6FfrH1OyBQJlqQXQAhsMAAoJEHpU
+6FfrH1Oy5uQBAMGzyM+L25yBFUGmgpW83lNw+DgmzJlMDfIlLogODqFoAQDXr3cL
+rgGJKUJ0nS5W8wZ85BYy6HnfLIUh/Xk0cJYoBQ==
+=J7Rt
+-----END PGP PUBLIC KEY BLOCK-----
+
+Fingerprint: 7A91AA505402C030FB7983E60CE3B4BFFC688D54
+
+grypto@kali:~#
