@@ -32,7 +32,7 @@ gryptokali.net is a simple web application that displays the contents of a text 
 
 3. **Ensure you have PHP and a web server installed (e.g., Apache, Nginx).**
 
-4. **Place `info.txt` in the root directory of the project and edit `info.txt` .**
+4. **Edit the `info.txt` file in the website's root directory.**
 
 ## Acknowledgements
 
