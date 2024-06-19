@@ -3,6 +3,9 @@
 gryptokali.net is a simple web application that displays the contents of a text file in a console-like interface with a typing animation effect.
 
 **Note:** This repository contains the backend code for my website, gryptokali.net.
+
+**Note:** My website uses a font called OCR.ttf. You will need to find and download this font yourself, and place it in the root directory of the project and edit style.css.
+
 ## Features
 
 - Reads content from `info.txt` file.
